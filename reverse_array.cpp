@@ -21,6 +21,7 @@ int main()
     {
         scanf("%d",&a[i]);
     }
+    // array reverse using recusrion
     reverse(a,s-1,0);
     for(int i=0;i<s;i++)
     {
